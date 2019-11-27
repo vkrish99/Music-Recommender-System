@@ -44,4 +44,4 @@ Please install the following libraries:\
 ## Group:
 Sachet Sourav- [@Sachet12345](https://github.com/Sachet12345)\
 Koushik Swaminathan- [@imkoushik22](https://github.com/imkoushik22)\
-Vijay Krishna- [@vkrish99].(https://github.com/vkrish99)
+Vijay Krishna- [@vkrish99]
